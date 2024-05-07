@@ -7,4 +7,4 @@ This ontology graph shows how the properties in the annotated events relate to e
 - Considering the condition that different parts of one same infrastructure may be impacted by different kinds of “events” each with a different time-span, the “object_part” class is set as a subclass of “object_main”. The descriptive information modeled as data properties for the “object_main” class are also applicable for its subclass, “object_part”.
 - The lower part of the graph shows a demo of individual implementation of a specific piece of inscription. Some individuals are represented with their URIs on Wikidata.
   
-Click to view the [ontology graph](https://rawcdn.githack.com/lizaodawn/material_infrastructures_event_ontology/513a55b24b984380636bea32ea13f18f3ed32750/1130_updated_ontology_graph.html) in the browser. 
+Click to view the [ontology graph](https://raw.githack.com/lizaodawn/material_infrastructures_event_ontology/main/ontology_graph_update.html) in the browser. 
